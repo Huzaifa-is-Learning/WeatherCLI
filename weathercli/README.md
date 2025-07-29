@@ -1,0 +1,22 @@
+# ☁️ WeatherCLI
+
+A simple command-line Python app that fetches real-time weather data from OpenWeatherMap API. Built for fun and for learning how to use APIs with Python.
+
+## 🔧 Features
+- Get live weather info by city name
+- Displays temperature in Celsius and Fahrenheit
+- Error handling for invalid input
+- Simple and clean terminal output
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.x
+- OpenWeatherMap API key (get one from https://openweathermap.org/api)
+
+### Installation
+```bash
+git clone https://github.com/yourusername/weathercli.git
+cd weathercli
+pip install -r requirements.txt
+python weather.py
