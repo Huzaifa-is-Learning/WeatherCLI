@@ -22,7 +22,9 @@ pip install -r requirements.txt
 python weather.py
 
 
-##--- WeatherCLI ---
+## Example Output
+```
+--- WeatherCLI ---
 Enter city name: Dhaka
 Enter your OpenWeatherMap API key: xxxxxxxxx
 Weather in Dhaka, BD:
