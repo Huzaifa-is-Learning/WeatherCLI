@@ -21,13 +21,11 @@ cd weathercli
 pip install -r requirements.txt
 python weather.py
 
-
-## Example Output
-```
+#### Example Output
+```bash
 --- WeatherCLI ---
 Enter city name: Dhaka
 Enter your OpenWeatherMap API key: xxxxxxxxx
 Weather in Dhaka, BD:
 Temperature: 29°C / 84.2°F
 Condition: Scattered Clouds
-
